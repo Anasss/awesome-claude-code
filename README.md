@@ -198,6 +198,7 @@
 ### Orchestrators
 
 - [Auto-Claude](https://github.com/AndyMik90/Auto-Claude) by [AndyMik90](https://github.com/AndyMik90) - Autonomous multi-agent coding framework for Claude Code (Claude Agent SDK) that integrates the full SDLC - "plans, builds, and validates software for you". Features a slick kanban-style UI and a well-designed but not over-engineered agent orchestration system.
+- [QA Orchestra](https://github.com/Anasss/qa-orchestra) by [Anass Rach](https://github.com/Anasss) - A multi-agent QA toolkit for Claude Code with 10 specialized agents covering the full QA lifecycle — from environment setup and functional review to browser validation, test scenario design, automation writing, and bug reporting. Stack-agnostic, output-chained, and designed around testing running code via Chrome MCP.
 - [Claude Code Flow](https://github.com/ruvnet/claude-code-flow) by [ruvnet](https://github.com/ruvnet) - This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 - [Claude Squad](https://github.com/smtg-ai/claude-squad) by [smtg-ai](https://github.com/smtg-ai) - Claude Squad is a terminal app that manages multiple Claude Code, Codex (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.
 - [Claude Swarm](https://github.com/parruda/claude-swarm) by [parruda](https://github.com/parruda) - Launch Claude Code session that is connected to a swarm of Claude Code Agents.
